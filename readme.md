@@ -85,4 +85,8 @@ Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
 ## Conclusion
 This project is a comprehensive representation of our solar system, bringing together realistic modeling, advanced visual effects, and interactive features. Explore the planets, their moons, and the vast asteroid belts, all from the comfort of your screen.
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
 Feel free to contribute, suggest improvements, or use this project as a foundation for your own THREE.js experiments. Happy exploring!
